@@ -1,0 +1,48 @@
+body
+{
+	background-image:url(bg.jpg) ;
+}
+
+	.login_div1 
+	{
+		background-color:rebeccapurple ;
+		padding: 10px;
+		float: none;
+        border-radius: 15px;
+        border: white;
+        border-style: solid;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+    margin-left: 20px;
+    
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+
+
+#button_login{
+    background-color: rebeccapurple;
+    font-size: 20px;
+    border-radius: 15px;
+    color: white;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid purple;
+padding: 10px;
+float: none;
+text-align: left;
+}
